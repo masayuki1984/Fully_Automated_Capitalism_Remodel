@@ -1,2 +1,2 @@
 # configフォルダは管理対象外
-datalake/config/
+datalake/config/*.yaml
